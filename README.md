@@ -1,5 +1,5 @@
 
-![test image size]<img src="https://user-images.githubusercontent.com/92806180/186501264-88c27829-d3d2-4902-960d-27bdcd851adf.gif " width="400" height="790">
+![test image size]<img src="https://user-images.githubusercontent.com/92806180/186501264-88c27829-d3d2-4902-960d-27bdcd851adf.gif " width="250" height="250">
 
 
 <h1 align="center">Hi 👋, I'm AKARSH S NAIR</h1>
