@@ -1,4 +1,3 @@
-![13312045ba691fcb8d1fbae330d937e0](https://user-images.githubusercontent.com/92806180/186500936-b77406ea-dc5e-4ffc-a4cd-f73333345fe0.gif)
 
 
 <h1 align="center">Hi 👋, I'm AKARSH S NAIR</h1>
