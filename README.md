@@ -4,7 +4,7 @@
 <h2>💫 About Me:</h2>
 🌱 I am a dedicated problem solver with a relentless drive to explore, experiment, and innovate in the field of Machine Learning. With a solid foundation in mathematics and programming, I thrive on 
     deciphering complex datasets and transforming them into intelligent solutions that shape a smarter future😊.
-<br>🎓 Chair of ACM Student Chapter - Amritapuri 
+<br>🎓 Vice-Chair of ACM Student Chapter - Amritapuri 
 <br>🤔 Also learning Web Development, Machine Learning, Computer Vision, Django, Android development.
 
 ## 🌐 Socials:
