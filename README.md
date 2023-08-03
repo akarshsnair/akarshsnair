@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm AKARSH S NAIR</h1>
-<h3 align="center"> AI / ML Enthusiast   |   Vice-Chairman @ACM-Amrita-Amritapuri   |    2nd Year B.Tech AIE Student at Amrita Vishwa Vidyapeetham, Amritapuri </h3>
+<h3 align="center">**2nd Year B.Tech AIE Student at Amrita Vishwa Vidyapeetham, Amritapuri**</h3>
+<br>🔭 I’m currently working on ML and NLP Project
 <br> 📫 Reach me at akarshsujesh620@gmail.com
 <br> 💞️ I’m looking to collaborate on various projects, interested WhatsApp me at +91 9496485832
 
