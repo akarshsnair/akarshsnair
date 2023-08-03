@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm AKARSH S NAIR</h1>
-<h3 align="center">** 1st year Btech AIE student at Amrita Vishwa Vidyapeetham , Kollam **</h3>
+<h3 align="center">** 2nd year Btech AIE student at Amrita Vishwa Vidyapeetham , Kollam **</h3>
 
 - 🌱 I’m currently learning **Java , Python , CSS3 & ML**
 
