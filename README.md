@@ -1,6 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm AKARSH S NAIR</h1>
 <h3 align="center">**2nd Year B.Tech AIE Student at Amrita Vishwa Vidyapeetham, Amritapuri**</h3>
+<p>I am a dedicated problem solver with a relentless drive to
+explore, experiment, and innovate in the field of Machine
+Learning. With a solid foundation in mathematics and
+programming, I thrive on deciphering complex datasets and
+transforming them into intelligent solutions that shape a
+smarter future.
+</p>
 <br>🔭 I’m currently working on ML and NLP Project
 <br> 📫 Reach me at akarshsujesh620@gmail.com
 <br> 💞️ I’m looking to collaborate on various projects, interested WhatsApp me at +91 9496485832
