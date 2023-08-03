@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm AKARSH S NAIR</h1>
-<h3 align="center"> AI / ML Enthusiast | Vice-Chairman @ACM-Amrita-Amritapuri | 2nd Year B.Tech AIE Student at Amrita Vishwa Vidyapeetham, Amritapuri </h3>
+<h3 align="center"> AI / ML Enthusiast  |  Vice-Chairman @ACM-Amrita-Amritapuri  |  2nd Year B.Tech AIE Student at Amrita Vishwa Vidyapeetham, Amritapuri </h3>
 <h2>💫 About Me:</h2>
 🌱 I am a dedicated problem solver with a relentless drive to explore, experiment, and innovate in the field of Machine Learning. With a <br>solid foundation in mathematics and programming, I thrive on 
     deciphering complex datasets and transforming them into intelligent solutions that shape a smarter future😊.
