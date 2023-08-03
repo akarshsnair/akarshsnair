@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AKARSH S NAIR</h1>
 <h3 align="center">** 2nd year Btech AIE student at Amrita Vishwa Vidyapeetham , Kollam **</h3>
 <br>
-# 💫 About Me:
+<h2>💫 About Me:</h2>
 I am a dedicated problem solver with a relentless drive to<br>explore, experiment, and innovate in the field of Machine<br>Learning. With a solid foundation in mathematics and<br>programming, I thrive on deciphering complex datasets and<br>transforming them into intelligent solutions that shape a<br>smarter future😊.<br>
 
 
