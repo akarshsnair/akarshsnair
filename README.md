@@ -2,8 +2,9 @@
 <h1 align="center">Hi 👋, I'm AKARSH S NAIR</h1>
 <h3 align="center">** 2nd year Btech AIE student at Amrita Vishwa Vidyapeetham , Kollam **</h3>
 <h2>💫 About Me:</h2>
-I am a dedicated problem solver with a relentless drive to explore, experiment, and innovate in the field of Machine Learning. With a solid foundation in mathematics and programming, I thrive on deciphering complex datasets and transforming them into intelligent solutions that shape a smarter future😊.
-
+🌱 I am a dedicated problem solver with a relentless drive to explore, experiment, and innovate in the field of Machine Learning. With a solid foundation in mathematics and programming, I thrive on 
+    deciphering complex datasets and transforming them into intelligent solutions that shape a smarter future😊.
+🎓 Chair of ACM Student Chapter - Amritapuri 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/akarxh___?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akarsh-s-nair-426530227) 
