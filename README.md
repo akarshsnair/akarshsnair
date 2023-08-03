@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AKARSH S NAIR</h1>
 <h3 align="center">** 2nd year Btech AIE student at Amrita Vishwa Vidyapeetham , Kollam **</h3>
 # 💫 About Me:
-I am a dedicated problem solver with a relentless drive to<br>explore, experiment, and innovate in the field of Machine<br>Learning. With a solid foundation in mathematics and<br>programming, I thrive on deciphering complex datasets and<br>transforming them into intelligent solutions that shape a<br>smarter future😊😄.<br>
+I am a dedicated problem solver with a relentless drive to<br>explore, experiment, and innovate in the field of Machine<br>Learning. With a solid foundation in mathematics and<br>programming, I thrive on deciphering complex datasets and<br>transforming them into intelligent solutions that shape a<br>smarter future😊.<br>
 
 
 ## 🌐 Socials:
@@ -24,6 +24,7 @@ I am a dedicated problem solver with a relentless drive to<br>explore, experimen
 ---
 [![](https://visitcount.itsvg.in/api?id=akarshsnair&icon=4&color=1)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **akarshsnair/akarshsnair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
