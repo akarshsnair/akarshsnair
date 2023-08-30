@@ -43,7 +43,6 @@ smarter future😄😊
 <div>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </div>
-  <img src="https://visitcount.itsvg.in/api?id=akarshsnair&icon=4&color=1"/>
 <!--
 **akarshsnair/akarshsnair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
