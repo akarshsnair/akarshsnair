@@ -28,7 +28,7 @@ smarter future😄😊
       <img src="https://github-readme-stats.vercel.app/api?username=akarshsnair&count_private=true&show_icons=true&theme=dark&hide_border=true"/>
     </td>
       <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshsnair&layout=compact&theme=dark&hide_border=true&langs_count=12" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarshsnair&layout=compact&theme=dark&hide_border=true&langs_count=10" />
     </td>
 </table>
 
