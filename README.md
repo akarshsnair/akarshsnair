@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm AKARSH S NAIR</h1>
-<h3 align="center">**2nd Year B.Tech AIE Student at Amrita Vishwa Vidyapeetham, Amritapuri**</h3>
+<h3 align="center">**B.Tech AIE Student at Amrita Vishwa Vidyapeetham, Amritapuri**</h3>
 <ul>I am a dedicated problem solver with a relentless drive to
 explore, experiment, and innovate in the field of Machine
 Learning. With a solid foundation in mathematics and
